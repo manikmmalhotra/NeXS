@@ -8,11 +8,12 @@
     <string name="bookmarks">BookMarks</string>
     <string name="logout">Log Out</string>
 
-    //main menu titles basically for search  menu
+    //main menu titles basically for search menu
     <string name="search">Search</string>
 
     //main activity titles
     <string name="welcome">Welcome</string>
     <string name="user_name_string">Mayank</string>
     <string name="date_string">Monday 9 November, 2020</string>
+    <string name="decr_slider">joss butler said he is happy to bat at number five for RR after he Led his side to a 7 wicket win against CSK on Moday Joss\'s Buttler Scored 70 runs To ensure an easy victory for his side and keep the hopes of Playoffs alive for Rajasthan Royals At dream11 IPL 2020</string>
 </resources>
